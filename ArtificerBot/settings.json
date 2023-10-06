@@ -1,0 +1,46 @@
+{
+	"DebugTgAccessToken": "5840880172:AAEkrKPPkuHTyvktxTgr4AJMcEmC-KUXJYs", //Токен для debug бота
+	"TgAccessToken": "6139340093:AAHM7xjcMWsPy0BtHR05IPDGOsJ9KCJT4sI", //Токен для бота
+	"DebugOAAccessToken": "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", //Токен для OpenAI
+	"OAAccessToken": "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", //Токен для деплоя OpenAI
+	"YMAccessToken": "live_7SUx6MWqutAsd8ct79yf9ZSgMiqF5MDfgtB2bVNTTIg", //Токен для ЮМани
+	"AdminId": 375597733, //Идентификатор пользователя Администратора
+	"BotName": "artificerbot", //domain бота
+	"BotStringName": "Статейный мастер", //Имя бота
+	"ShopId": 200335, //Идентификатор магазина в ЮМани
+	"AppId": 25698336, //AppId Телеграм клиента
+	"AppHash": "477e8cf169b8bb29438df75eaaf433b5", //AppHash телеграм клиента
+	"Telephone": "+79141672699", //Телефон агента
+	"CloudPassword": "1684260226Qq12!!!", //Пароль агента
+	"FirstName": "artificer", //Firstname агента
+	"BotDebugId": 5840880172, //Id debug бота
+	"AgentId": 6203655900, //Id ползьзователя Агента
+	"BotId": 6139340093, //Id бота
+	"Proxy": "87.251.16.250:50101", //Адресс прокси сервера для OpenAI
+	"ProxyLogin": "eduardgushchin",
+	"ProxyPass": "gahQVYrAJg",
+	"StartBalance": 10, //Стартовый баланс новых пользователей
+	"Rates": [
+		//Тарифы
+		{
+			"requests": 3000,
+			"hours": 10
+		},
+		{
+			"requests": 6000,
+			"hours": 20
+		},
+		{
+			"requests": 9000,
+			"hours": 30
+		},
+		{
+			"requests": 15000,
+			"hours": 50
+		},
+		{
+			"requests": 27000,
+			"hours": 90
+		}
+	]
+}
